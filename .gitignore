@@ -1,0 +1,22 @@
+# default
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# custom
+.env
+*.zip
+src/assets/fonts
+src/assets/icons
+src/assets/images
